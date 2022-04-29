@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "demo-organic-shop"
+    }
+  },
+  "defaultProject": "demo-organic-shop",
+  "cli": {
+    "analytics": false
+  }
 }
