@@ -39,7 +39,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 `npm install ng2-validation --save` (For older versions of angular)\
 `npm i ngx-custom-validators@8 --save` (For new versions of angular to validate min,max,url etc. Need to import CustomFormsModule)\
 `npm i angular-9-datatable --save` (For displaying data table)\
-https://www.npmjs.com/package/angular-9-datatable\
+https://www.npmjs.com/package/angular-9-datatable  (For reference) \
 `npm i font-awesome --save` (For displaying icons)\
 
 URL to access the application:
