@@ -27,20 +27,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Commands to remember
-`ng add @ng-bootstrap/ng-bootstrap`
-`ng add @angular/fire`
-`npm i -g firebase-tools`
-`firebase --version`
-`firebase login`
-`firebase logout`
-`firebase init` (Give public directory as 'dist/demo-organic-shop')
-`ng build --prod`
-`firebase deploy`
-`npm install ng2-validation --save` (For older versions of angular)
-`npm i ngx-custom-validators@8 --save` (For new versions of angular to validate min,max,url etc. Need to import CustomFormsModule)
-`npm i angular-9-datatable --save` (For displaying data table)
-https://www.npmjs.com/package/angular-9-datatable
-`npm i font-awesome --save` (For displaying icons)
+`ng add @ng-bootstrap/ng-bootstrap` \
+`ng add @angular/fire`\
+`npm i -g firebase-tools`\
+`firebase --version`\
+`firebase login`\
+`firebase logout`\
+`firebase init` (Give public directory as 'dist/demo-organic-shop')\
+`ng build --prod`\
+`firebase deploy`\
+`npm install ng2-validation --save` (For older versions of angular)\
+`npm i ngx-custom-validators@8 --save` (For new versions of angular to validate min,max,url etc. Need to import CustomFormsModule)\
+`npm i angular-9-datatable --save` (For displaying data table)\
+https://www.npmjs.com/package/angular-9-datatable\
+`npm i font-awesome --save` (For displaying icons)\
 
 URL to access the application:
 https://oshop-5d276.web.app/
